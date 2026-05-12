@@ -1,0 +1,22 @@
+,{
+  "showDialog": true,
+  "title": "🔐 ID Login Parle ",
+  "description":  "Parle LH SFA3.0 PRD ",
+  "button": "LOGIN",
+  "toast": "✅ ID Successfully Logged In!",
+  "renewUrl": "https://t.me/hitesh125sf",
+  "devices": [
+    {
+      "device_id": "441ba50c4a2a94ce",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-10-20"
+    },
+    {
+      "device_id": "441ba50c4a2a94ce",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-10-20"
+    }
+  ]
+}
